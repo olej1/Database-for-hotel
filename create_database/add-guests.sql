@@ -1,0 +1,16 @@
+INSERT INTO htl.Guests (guest_id, first_name, last_name, email, phone, passport_number, birth_date) VALUES
+(1, 'Ivan', 'Ivanov', 'ivanov@mail.com', '89990001122', '1234567891', '1990-01-01'),
+(2, 'Petr', 'Petrov', 'petrov@mail.com', '89990003344', '2234567890', '1985-05-15'),
+(3, 'Svetlana', 'Sidorova', 'sidorova@mail.com', '89990005566', '3234567890', '1992-07-20'),
+(4, 'Olga', 'Kuznetsova', 'kuznetsova@mail.com', '89990007788', '4234567890', '1990-03-12'),
+(5, 'Mikhail', 'Smirnov', 'smirnov@mail.com', '89990009900', '5234567890', '1987-11-05'),
+(6, 'Anna', 'Vasilyeva', 'vasilyeva@mail.com', '89990001011', '6234567890', '1995-09-22'),
+(7, 'Dmitry', 'Andreev', 'andreev@mail.com', '89990002112', '7234567890', '1988-02-18'),
+(8, 'Maria', 'Frolova', 'frolova@mail.com', '89990003222', '8234567890', '1993-06-30'),
+(9, 'Sergey', 'Lebedev', 'lebedev@mail.com', '89990004333', '9234567890', '1982-12-02'),
+(10, 'Ekaterina', 'Novikova', 'novikova@mail.com', '89990005444', '1034567890', '1989-08-25'),
+(11, 'Yulia', 'Zaharova', 'zaharova@mail.com', '89990006555', '1134567890', '1994-04-10'),
+(12, 'Vladimir', 'Karpov', 'karpov@mail.com', '89990007666', '1234567890', '1983-01-30'),
+(13, 'Olga', 'Morozova', 'morozova@mail.com', '89990008777', '1334567890', '1996-05-17'),
+(14, 'Igor', 'Kondratenko', 'kondratenko@mail.com', '89990009888', '1434567890', '1991-09-05'),
+(15, 'Tatyana', 'Petrova', 'petrova@mail.com', '89990010999', '1534567890', '1980-04-22');

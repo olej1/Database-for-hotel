@@ -1,0 +1,16 @@
+INSERT INTO htl.Staff (staff_id, first_name, last_name, position) VALUES
+(1, 'Anna', 'Ivanova', 'Receptionist'),
+(2, 'Petr', 'Petrov', 'Receptionist'),
+(3, 'Svetlana', 'Sidorova', 'Manager'),
+(4, 'Olga', 'Kuznetsova', 'Manager'),
+(5, 'Mikhail', 'Smirnov', 'Housekeeping'),
+(6, 'Anna', 'Vasilyeva', 'Housekeeping'),
+(7, 'Dmitry', 'Andreev', 'Housekeeping'),
+(8, 'Maria', 'Frolova', 'Concierge'),
+(9, 'Sergey', 'Lebedev', 'Concierge'),
+(10, 'Ekaterina', 'Novikova', 'Chef'),
+(11, 'Yulia', 'Zaharova', 'Chef'),
+(12, 'Vladimir', 'Karpov', 'Driver'),
+(13, 'Olga', 'Morozova', 'Driver'),
+(14, 'Igor', 'Kondratenko', 'Medical worker'),
+(15, 'Tatyana', 'Petrova', 'Medical worker');

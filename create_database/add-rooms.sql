@@ -1,0 +1,16 @@
+INSERT INTO htl.Rooms (room_number, room_type, capacity) VALUES
+(101, 'Single', 1),
+(102, 'Single', 1),
+(103, 'Double', 2),
+(104, 'Double', 2),
+(105, 'Suite', 2),
+(106, 'Suite', 2),
+(107, 'Family', 4),
+(108, 'Family', 4),
+(109, 'Single', 1),
+(110, 'Double', 2),
+(111, 'Double', 2),
+(112, 'Suite', 2),
+(113, 'Suite', 2),
+(114, 'Family', 4),
+(115, 'Family', 4);
